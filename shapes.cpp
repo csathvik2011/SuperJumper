@@ -1,5 +1,5 @@
 #include <cstdlib>
-#inlcude <iostream>
+#include <iostream>
 using namespace std; 
  
 int pth (int x,int y)  { 
